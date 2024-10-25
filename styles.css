@@ -29,6 +29,7 @@ header {
     display: flex; /* Use flexbox for layout */
     align-items: center; /* Center items vertically */
     justify-content: space-between; /* Space between logo and nav */
+    flex-wrap: wrap
 }
 .logo {
     width: 160px; /* Adjust logo width as needed */
